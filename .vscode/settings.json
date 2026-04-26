@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python",
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
